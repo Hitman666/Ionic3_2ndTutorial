@@ -13,3 +13,7 @@ The step by step tutorial is published and you can, of course, check it out for 
 
 ### Demo
 You can check out the live example of this application [here](http://hitman666.github.io/Ionic3_2ndTutorial/).
+
+Here's a gif of how it looks/works:
+
+![](calculator.gif)
